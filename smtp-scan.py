@@ -48,9 +48,9 @@ ip_ranges = [
     "31.193.0.0/24",  # Germany
     "176.0.0.0/24",  # Germany
     "217.0.0.0/24",  # Netherlands
-    "212.58.244.0/16",  # BBC UK
-    "185.220.101.0/16",  # Switzerland ISP
-    "37.120.128.0/24",  # Austria ISP
+    "212.58.0.0/16",  # BBC UK
+    "185.220.0.0/16",  # Switzerland ISP
+    "37.120.0.0/24",  # Austria ISP
     "62.210.0.0/24",  # France OVH
     "5.104.0.0/16",  # Sweden ISP
     "2.16.0.0/24",  # Akamai CDN
